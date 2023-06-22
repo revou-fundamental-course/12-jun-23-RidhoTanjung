@@ -1,0 +1,18 @@
+.container {
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-right: 5px;
+}
+
+p {
+    margin-top: 10px;
+}
